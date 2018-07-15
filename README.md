@@ -238,7 +238,7 @@ public static self addRow(array $rowData)
 
 *`$rowData` value: string or array of attributes for a cell*
 
-  - attributes: `key`, `value`, [`col`](#merge-cells), [`row`](#merge-cells), [`skip`](#merge-cells),  [`width`](#columns-format)
+  - attributes: `key`, `value`, [`col`](#merge-cells), [`row`](#merge-cells), [`skip`](#merge-cells),  [`width`](#columns-format), [`style`](#cell-style)
 
 *[Example of addRow()](#write-to-excel)*
 
